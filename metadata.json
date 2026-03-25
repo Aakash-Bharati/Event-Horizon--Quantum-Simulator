@@ -1,0 +1,5 @@
+{
+  "name": "Event Horizon: Quantum Simulator",
+  "description": "An atmospheric quantum state simulator with Bloch sphere visualization and vector transition animations.",
+  "requestFramePermissions": []
+}
